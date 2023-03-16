@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,cdn.td
 DOMAIN,translate.google.com
 DOMAIN-SUFFIX,shouji.360.cn
 DOMAIN-SUFFIX,codemutex.com
+DOMAIN-KEYWORD,getui
+DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,push
+DOMAIN-SUFFIX,mtalk.google.com
